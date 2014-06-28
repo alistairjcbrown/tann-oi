@@ -1,0 +1,31 @@
+{
+	"name": "tann-oi",
+	"description": "Pub Sub Wrapper",
+	"version": "0.1.0",
+	"author": "Alistair Brown <github@alistairjcbrown.com>",
+	"bugs": "https://github.com/alistairjcbrown/tann-oi/issues",
+	"contributors": [],
+	"dependencies": {
+		"jashkenas/underscore": "*"
+	},
+	"homepage": "https://github.com/alistairjcbrown/tann-oi",
+	"keywords": [
+		"util",
+		"library",
+		"pub",
+		"sub",
+		"pubsub",
+		"pub/sub",
+		"event",
+		"subscribe",
+		"publish",
+		"bind",
+		"trigger"
+	],
+	"license": "MIT",
+	"main": "tann-oi.min.js",
+	"repo": "alistairjcbrown/check-type",
+	"scripts": [
+		"check-type.min.js"
+	]
+}

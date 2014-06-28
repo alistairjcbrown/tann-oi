@@ -1,0 +1,43 @@
+{
+	"name": "tann-oi",
+	"version": "0.1.0",
+	"main": "tann-oi.min.js",
+	"description": "Pub Sub Wrapper",
+	"author": "Alistair Brown <github@alistairjcbrown.com>",
+	"bugs": "https://github.com/alistairjcbrown/tann-oi/issues",
+	"contributors": [],
+	"dependencies": {
+		"underscore": "1.6.0"
+	},
+	"devDependencies": {
+		"chai": "~1.9.1",
+		"mocha": "~1.18.2",
+		"sinonjs-built": "~1.8.2",
+		"sinon-chai": "~2.5.0",
+		"backbone": "~1.1.2"
+	},
+	"homepage": "https://github.com/alistairjcbrown/tann-oi",
+	"keywords": [
+		"util",
+		"library",
+		"pub",
+		"sub",
+		"pubsub",
+		"pub/sub",
+		"event",
+		"subscribe",
+		"publish",
+		"bind",
+		"trigger"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/alistairjcbrown/tann-oi.git"
+	},
+	"ignore": [
+		"./Gruntfile.js",
+		"./lib/examples/",
+		"./lib/tests/"
+	]
+}
